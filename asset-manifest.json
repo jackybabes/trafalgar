@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trafalgar/static/css/main.b542bcc1.chunk.css",
+    "main.js": "/trafalgar/static/js/main.b52043b1.chunk.js",
+    "main.js.map": "/trafalgar/static/js/main.b52043b1.chunk.js.map",
+    "runtime-main.js": "/trafalgar/static/js/runtime-main.4d4cc7ef.js",
+    "runtime-main.js.map": "/trafalgar/static/js/runtime-main.4d4cc7ef.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/trafalgar/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1676d2f5.chunk.js": "/trafalgar/static/js/2.1676d2f5.chunk.js",
+    "static/js/2.1676d2f5.chunk.js.map": "/trafalgar/static/js/2.1676d2f5.chunk.js.map",
+    "index.html": "/trafalgar/index.html",
+    "precache-manifest.1e73e3a2c02bcede495b167e431bc19e.js": "/trafalgar/precache-manifest.1e73e3a2c02bcede495b167e431bc19e.js",
+    "service-worker.js": "/trafalgar/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/trafalgar/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b542bcc1.chunk.css.map": "/trafalgar/static/css/main.b542bcc1.chunk.css.map",
+    "static/js/2.1676d2f5.chunk.js.LICENSE.txt": "/trafalgar/static/js/2.1676d2f5.chunk.js.LICENSE.txt",
+    "static/media/play2.svg": "/trafalgar/static/media/play2.efffffa6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4cc7ef.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1676d2f5.chunk.js",
+    "static/css/main.b542bcc1.chunk.css",
+    "static/js/main.b52043b1.chunk.js"
+  ]
+}
